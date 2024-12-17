@@ -62,14 +62,14 @@ endmodule
 Write the detailed procedure here
 
 **Procedure**
-1.Tyoe the program
-2.Compile and run the program
-3.Generate the RTL schematic and save the logic diagram.
-4.Create nodes for inputs and outputs to generate the timing diagram
-5.For different input combinations generate the timing diagrams
+### 1.Type the program
+### 2.Compile and run the program
+### 3.Generate the RTL schematic and save the logic diagram.
+### 4.Create nodes for inputs and outputs to generate the timing diagram
+### 5.For different input combinations generate the timing diagrams
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+developed by:PANGA THANUJA
+REF NO:24900052
 
 **RTL Schematic**
 ![image](https://github.com/user-attachments/assets/994eb087-198f-4e10-a6e1-abb328801afc)
